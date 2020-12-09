@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP32-WROOM-32D
+F https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf
+$ENDCMP
+#
+$CMP Quectel_L96-M33
+F https://www.quectel.com/product/l96.htm
+$ENDCMP
+#
+#End Doc Library

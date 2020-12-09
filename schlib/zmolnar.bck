@@ -1,0 +1,17 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FDV304P
+D -0.18A Id, -45V Vds, P-Channel MOSFET, TO-92
+K P-Channel MOSFET
+F http://www.vishay.com/docs/70209/70209.pdf
+$ENDCMP
+#
+$CMP Quectel_L96-M33
+F https://www.quectel.com/product/l96.htm
+$ENDCMP
+#
+$CMP Wuerth_10pin_FPC_68711014522
+F https://www.we-online.de/katalog/datasheet/6871xx14522.pdf
+$ENDCMP
+#
+#End Doc Library

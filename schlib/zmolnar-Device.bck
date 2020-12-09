@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KSSGJ4D20
+F http://www.farnell.com/datasheets/1653455.pdf
+$ENDCMP
+#
+$CMP Murata_2u2H_LQH44PN2R2MP0L
+F https://www.murata.com/en-us/api/pdfdownloadapi?cate=cgInductors&partno=LQH44PN2R2MP0%23
+$ENDCMP
+#
+#End Doc Library
